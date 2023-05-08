@@ -3,7 +3,7 @@ import { PieChart, Pie, Legend, Tooltip } from "recharts";
 
 
 
-export default function Canvas(props) {
+function Canvas(props) {
  const data01 = [];
 const data02=   []
     console.log(props,"aaaaakksdd")
@@ -63,3 +63,4 @@ for(let i=0;i<x.length;i++){
     </PieChart>
   );
 }
+export default Canvas
