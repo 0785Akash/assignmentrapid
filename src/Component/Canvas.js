@@ -6,7 +6,7 @@ import { PieChart, Pie, Legend, Tooltip } from "recharts";
 export default function Canvas(props) {
  const data01 = [];
 const data02=   []
-    console.log(props,"grfapple afgdasfdasf")
+    console.log(props,"aaaaakksdd")
    let  x=props.amap
 let sum=0
 for(let i=0;i<x.length;i++){
